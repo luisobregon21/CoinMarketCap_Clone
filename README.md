@@ -1,6 +1,6 @@
 # CoinMarketCap - Clone
 
-Is a Webpage to to see the market of CryptoCurrency.
+A clone of a Webpage to to see the market of CryptoCurrency.
 
 ## File Descriptions
 
